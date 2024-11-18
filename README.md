@@ -49,18 +49,18 @@ A lixeira é equipada com um sensor ultrassônico que mede a altura dos resíduo
 
 lixeira-inteligente/
 ├── documentacao/
-│ ├── descricao_funcionamento.md
-│ ├── hardware_utilizado.md
-│ ├── protocolo_mqtt.md
-│ └── interfaces_documentacao.md
+│   ├── descricao_funcionamento.md
+│   ├── hardware_utilizado.md
+│   ├── protocolo_mqtt.md
+│   └── interfaces_documentacao.md
 ├── codigo/
-│ ├── codigo_fonte.ino
-│ └── README.md
+│   ├── codigo_fonte.ino
+│   └── README.md
 ├── imagens/
-│ ├── montagem_lixeira.jpg
-│ └── graficos_resultados.png
+│   ├── montagem_lixeira.jpg
+│   └── graficos_resultados.png
 └── video/
-└── video_demonstração.mp4
+    └── video_demonstração.mp4
 
 ## Documentação
 
