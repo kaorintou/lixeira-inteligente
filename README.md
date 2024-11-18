@@ -62,6 +62,14 @@ lixeira-inteligente/
 └── video/
     └── video_demonstração.mp4
 
+├── documentacao/
+│   ├── descricao_funcionamento.md
+│   ├── hardware_utilizado.md
+│   ├── protocolo_mqtt.md
+│   └── interfaces_documentacao.md
+├── codigo/
+│   └── README.md
+
 ## Documentação
 
 - Para mais informações sobre cada parte do projeto, consulte a documentação nas pastas respectivas.
