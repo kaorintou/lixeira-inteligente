@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este projeto é uma **lixeira inteligente** que utiliza sensores para monitorar o nível de resíduos e se comunica via MQTT. O objetivo é otimizar a gestão de resíduos em áreas urbanas, permitindo que os serviços de coleta sejam acionados apenas quando necessário.
+Este projeto é uma **lixeira inteligente** que utiliza sensores para monitorar o nível de resíduos e se comunica via MQTT. O objetivo é otimizar a gestão de resíduos em áreas urbanas e industriais, permitindo que os serviços de coleta sejam acionados apenas quando necessário.
 
 ## Funcionamento
 
@@ -48,19 +48,19 @@ A lixeira é equipada com um sensor ultrassônico que mede a altura dos resíduo
 ## Estrutura do Repositório
 
 lixeira-inteligente/
-├── documentacao/
-│   ├── descricao_funcionamento.md
-│   ├── hardware_utilizado.md
-│   ├── protocolo_mqtt.md
-│   └── interfaces_documentacao.md
-├── codigo/
-│   ├── codigo_fonte.ino
-│   └── README.md
-├── imagens/
-│   ├── montagem_lixeira.jpg
-│   └── graficos_resultados.png
-└── video/
-    └── video_demonstração.mp4
+ ├── documentacao/
+ │   ├── descricao_funcionamento.md
+ │   ├── hardware_utilizado.md
+ │   ├── protocolo_mqtt.md
+ │   └── interfaces_documentacao.md
+ ├── codigo/
+ │   ├── codigo_fonte.ino
+ │   └── README.md
+ ├── imagens/
+ │   ├── montagem_lixeira.jpg
+ │   └── graficos_resultados.png
+ └── video/
+     └── video_demonstração.mp4
 
 ## Documentação
 
