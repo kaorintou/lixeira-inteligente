@@ -36,7 +36,7 @@ A lixeira é equipada com um sensor ultrassônico que mede a altura dos resíduo
 
 2. **Configuração**:
 
-   - Edite o código fonte `codigo/codigo_fonte.ino` para inserir suas credenciais de Wi-Fi e informações do broker MQTT.
+   - Edite o código fonte `src/main.ino` para inserir suas credenciais de Wi-Fi e informações do broker MQTT.
 
 3. **Upload**:
 
