@@ -32,7 +32,7 @@ A lixeira é equipada com um sensor ultrassônico que mede a altura dos resíduo
 
 1. **Montagem**:
 
-   - Siga as instruções na pasta `/documentacao/hardware_utilizado.md` para montar os componentes.
+   - Siga as instruções na pasta `/documents/hardware_utilizado.md` para montar os componentes.
 
 2. **Configuração**:
 
@@ -43,24 +43,8 @@ A lixeira é equipada com um sensor ultrassônico que mede a altura dos resíduo
    - Carregue o código na placa de desenvolvimento usando a IDE Arduino.
 
 4. **Operação**:
+
    - Monitore o nível de resíduos através do aplicativo que se conecta ao broker MQTT.
-
-## Estrutura do Repositório
-
-lixeira-inteligente/
- ├── documentacao/
- │   ├── descricao_funcionamento.md
- │   ├── hardware_utilizado.md
- │   ├── protocolo_mqtt.md
- │   └── interfaces_documentacao.md
- ├── codigo/
- │   ├── codigo_fonte.ino
- │   └── README.md
- ├── imagens/
- │   ├── montagem_lixeira.jpg
- │   └── graficos_resultados.png
- └── video/
-     └── video_demonstração.mp4
 
 ## Documentação
 
